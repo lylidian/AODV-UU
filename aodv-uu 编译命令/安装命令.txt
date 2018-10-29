@@ -1,0 +1,7 @@
+需管理员权限, 需内核头文件
+
+安装 make install
+
+卸载 make uninstall 
+
+清楚已编译 make clean
